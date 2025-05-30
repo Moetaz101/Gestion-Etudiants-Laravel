@@ -187,4 +187,4 @@ Ce projet est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plu
 
 ## Contact
 
-Pour toute question ou suggestion concernant ce projet, veuillez contacter [moetazbelhadj15@gmail.com}. 
+Pour toute question ou suggestion concernant ce projet, veuillez contacter moetazbelhadj15@gmail.com. 

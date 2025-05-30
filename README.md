@@ -174,17 +174,6 @@ Le projet utilise les mécanismes de sécurité standard de Laravel :
 - Échappement des données
 - Validation des entrées utilisateur
 
-## Maintenance
-
-Pour maintenir le projet à jour :
-1. Mettez à jour régulièrement les dépendances
-2. Effectuez des sauvegardes régulières des bases de données
-3. Suivez les mises à jour de sécurité de Laravel
-
-## Licence
-
-Ce projet est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
-
 ## Contact
 
 Pour toute question ou suggestion concernant ce projet, veuillez contacter moetazbelhadj15@gmail.com. 
